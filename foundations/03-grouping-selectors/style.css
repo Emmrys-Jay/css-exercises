@@ -1,0 +1,13 @@
+.c-1, .c-2 {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.c-1 {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+}
+
+.c-2 {
+    background-color: #ffff00;
+}
